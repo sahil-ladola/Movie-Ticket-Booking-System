@@ -39,12 +39,6 @@ A comprehensive, GUI-based application for managing movie ticket bookings, seat 
 
 ---
 
-## 📖 Documentation
-
-Refer to `/docs/` for setup instructions, feature usage, and troubleshooting.
-
----
-
 ## 🙌 Contributing
 
 Contributions are welcome!  
