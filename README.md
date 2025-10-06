@@ -26,15 +26,6 @@ A comprehensive, GUI-based application for managing movie ticket bookings, seat 
 
 ---
 
-## 📂 Project Structure
-
-- `/src/` - Source code for forms, business logic, and database operations
-- `/docs/` - Documentation and user guides
-- `/resources/` - Images, icons, and other assets
-- `/sql/` - SQL scripts for database setup
-
----
-
 ## 💡 How to Run
 
 1. Clone the repository:
